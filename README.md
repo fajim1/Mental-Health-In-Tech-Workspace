@@ -2,9 +2,9 @@
 Analyzed and visualized attitudes towards mental health in tech firms by preprocessing and extracting a OSMI 2016 survey; visualized results to increase awareness of current statistics 
 
 # Motivation
-This project was performed as part of a group for my Artificial Intelligence course during my undergrad. The requirement for this project was to find a sizeable dataset and perform Pre-processing, EDA and predictive modeling. 
+This project was performed as part of my introduction to data mining course. The requirement for this project was to find a sizeable dataset and perform Pre-processing and EDA. 
 
-Patients with Liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, pickles and drugs. This dataset was used to evaluate prediction algorithms in an effort to reduce burden on doctors
+
 
 # Data Source
 
